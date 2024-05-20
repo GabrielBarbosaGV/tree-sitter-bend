@@ -1,0 +1,19 @@
+{
+  "name": "tree-sitter-bend",
+  "version": "0.1.0",
+  "description": "Tree Sitter grammar for the Bend programming language ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/GabrielBarbosaGV/tree-sitter-bend"
+  },
+  "keywords": [
+    "TreeSitter",
+    "Bend"
+  ],
+  "author": "Gabriel Barbosa Gaspar Veloso",
+  "license": "MIT"
+}
