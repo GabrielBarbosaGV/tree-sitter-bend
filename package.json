@@ -15,5 +15,11 @@
     "Bend"
   ],
   "author": "Gabriel Barbosa Gaspar Veloso",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "tree-sitter-cli": "^0.22.6"
+  },
+  "dependencies": {
+    "nan": "^2.19.0"
+  }
 }
